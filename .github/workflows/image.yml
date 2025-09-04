@@ -6,6 +6,7 @@ on:
   pull_request:
 permissions:
   packages: write
+  
 
 env:
   REGISTRY_IMAGE: ghcr.io/gohugoio/hugo
